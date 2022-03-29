@@ -1,9 +1,10 @@
 # demo-superset
-Demo project using Apache Superset data exploration and visualization platform for Spotify API fetched data.
+Demo project eploying data fetching, visualization and analysis.
 
 ## Description
 
-
+This is analysis of my Discover Weekly playlist suggested by Spotify.
+Firstly, fetch the playlist using Spotify API with Python. Then, visualize my data with Preset platform (Apache Superset spin-off) by creating an interactive dashboard.
 
 ## Getting Started
 
