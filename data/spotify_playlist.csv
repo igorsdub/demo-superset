@@ -1,0 +1,31 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Xavier Cugat,Bailes de Salón,Tea For Two,4bjgNS0dsYVkUX2YmkjHJS,0.693,0.631,1,-12.129,0,0.0588,0.894,0.103,0.937,116.305,148062,4
+Deana Martin,Memories Are Made of This,You're Nobody 'til Somebody Loves You,60tTW2XIt3ON9UeHPH9UDT,0.699,0.468,0,-8.336,1,0.0314,0,0.294,0.604,126.367,145427,4
+Edmundo Ros,The Latin Rhythms of Edmundo Ros,I Could Have Danced All Night,22E08hTQlK0UXoZWKYalEv,0.761,0.505,0,-13.235,1,0.12,0.000244,0.0602,0.848,133.143,144733,4
+King Oliver,King of the Blues,C'est Si Bon,6ndbBXOh4AO41bSJ0QHjuN,0.493,0.601,5,-6.599,0,0.0664,0,0.727,0.728,122.515,184599,4
+Barbra Streisand,Partners (Deluxe),It Had to Be You (with Michael Bublé),2z9UjX6HD7UOFkZiiUA3hj,0.372,0.31,5,-7.213,0,0.0294,0,0.171,0.171,82.308,262107,4
+Al Bowlly,The Melancholy Mr Bowly,My Melancholy Baby,4S5nop56MRJvkcM4hWzAxQ,0.562,0.216,5,-16.959,1,0.0434,0.00303,0.161,0.611,90.817,168116,4
+Gunhild Carling,Fly Me to the Moon,Fly Me to the Moon,6hSJNWkyWPZBHBRrL5wFx1,0.768,0.289,8,-12.929,1,0.0349,0.0644,0.107,0.584,139.92,153026,4
+Muriel Zoe,Neon Blue,Body And Soul,2KCvVYuwYhuzxbH7pQSfUL,0.5,0.177,3,-13.001,0,0.0356,6.87e-05,0.11,0.146,104.265,262347,4
+Morgana King,Gemini Changes,Sunny,5WTduEM9fllIf3eBmfGuOX,0.513,0.328,5,-11.886,0,0.051,0,0.126,0.51,121.449,130507,3
+Ellie Johnson Trio,Street of Dreams,Volare,5wrPY0DoczKtiaqLtozTmc,0.44,0.25,0,-18.536,0,0.0325,0.915,0.106,0.591,73.428,193698,4
+Tony Glausi,Historia de un Amor,Historia de un Amor,5M8Rgo4KhjlTslvwP3VFHU,0.723,0.235,2,-12.856,0,0.0617,0.000576,0.118,0.64,111.845,154912,4
+Dan Pugach,My Favorite Things,My Favorite Things,3LrX92eaEOVh2JPtobtxgF,0.359,0.44,0,-9.187,0,0.0627,0.00365,0.116,0.587,179.082,291440,3
+Moonlight Serenade Orchestra Uk,Swinging Live,Moonlight Serenade,548FzykfWI8LQWtU7mQBzk,0.207,0.289,0,-10.634,0,0.031,0.813,0.728,0.236,91.817,189893,4
+Irene Kral,The Band And I,Comes Love,5pSJF9AOOCrVxsRqB7kP57,0.564,0.144,0,-11.974,1,0.0398,0,0.156,0.271,114.29,153293,4
+Mary Juane Clair,Dream A Little Dream Of Me,Dream A Little Dream Of Me,7aBxhnKHvRxf4x1kV0DlLu,0.302,0.263,11,-8.206,1,0.0353,0,0.127,0.124,180.656,150500,3
+Michelle Simonal,The Best Of,I Want to Hold Your Hand,29N9flJP28c96lT5zYlXOf,0.663,0.199,8,-12.123,1,0.0297,0.00545,0.107,0.408,90.057,210213,4
+Natalie Dessay,I'm a Fool to Want You,I'm a Fool to Want You,2Xt8Nc52jWbIRJS5JJDNKU,0.178,0.201,10,-17.09,0,0.04,0.0753,0.117,0.166,89.811,286453,3
+Die 12 Cellisten der Berliner Philharmoniker,'Round Midnight,Moonlight Serenade,3GUaPgUBjhhzEBHu51wstl,0.116,0.144,5,-20.069,0,0.039,0.9,0.11,0.194,73.464,224560,4
+Aubrey Logan,Standard,On the Sunny Side of the Street,2Vo9c2eCZo4bEvKxjPB1DQ,0.699,0.439,7,-8.868,1,0.08,3.32e-06,0.136,0.509,107.84,162240,3
+Javier Elorrieta,Souvenir Souvenir,C'est Si Bon,4w7KSaQiwFA6V3GdfYVF2F,0.504,0.51,7,-4.625,0,0.0302,0,0.379,0.506,117.874,192293,4
+Camille Howard,"Rock Me Daddy, Vol. 1",Has Your Love Grown Cold? - Vocal,69xsvcJ7Xv521DW3J50OWf,0.662,0.0876,0,-15.818,0,0.0827,1.02e-05,0.149,0.386,96.574,160000,4
+Joe Bonamassa,Seesaw,A Sunday Kind of Love,4QWyvLKmXXKvAnRwuPJ514,0.335,0.397,0,-8.913,1,0.0333,0.000103,0.347,0.26,78.021,237147,3
+Stanley Black,"Les grands chefs d'orchestre de variété : Stanley Black, Vol. 2",J'attendrai,59DYva0G0yM9bX2XNDCo1V,0.355,0.109,0,-16.445,1,0.035,0.803,0.111,0.368,106.999,146573,4
+Moon,Kiss Me,クァンド、クァンド、クァンド,1BaMI5OcR3mODhgZCWnvYW,0.51,0.277,2,-13.074,1,0.0421,3.41e-05,0.106,0.248,176.042,293693,4
+Caro Emerald,Deleted Scenes From The Cutting Room Floor - Acoustic Sessions,A Night Like This - Acoustic,33xVh63DgiI0g57IQMFvkM,0.819,0.275,11,-10.818,0,0.0683,0,0.116,0.682,119.061,221880,4
+Cyntia M.,Bistro Blue,La mer,2btsOBBDI1iyEvTgyy0oPC,0.797,0.282,7,-12.764,1,0.0367,2.83e-06,0.0918,0.445,113.351,243907,4
+Peter Grant,New Vintage,"You're The First, The Last, My Everything",56jQSlRWUNel64mpgYPnQ5,0.772,0.288,11,-8.874,1,0.0354,3.1e-06,0.14,0.407,120.047,195773,4
+The Manhattan Transfer,Coming Out,Scotch And Soda,1Ol9MsEbpn6uVNf6AQjfjM,0.453,0.164,6,-18.251,0,0.0295,2.62e-06,0.116,0.24,83.859,180533,4
+Barry Manilow,My Dream Duets,Dream A Little Dream Of Me,7EDMEoJnhX5TIrHYpv0yey,0.636,0.368,0,-8.977,1,0.028,0,0.189,0.333,88.006,187040,4
+Peter Appleyard,Sophisticated Ladies,After You've Gone,6aXxXV4TQIkywklPblz7Go,0.527,0.279,2,-14.043,1,0.0419,0,0.073,0.509,119.74,217107,4
