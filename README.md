@@ -1,5 +1,5 @@
-# demo-superset
-Demo project eploying data fetching, visualization and analysis.
+# Data fetching and visualization with BI tools demo
+Demo project employing data fetching, visualization and analysis.
 
 ![Dashboard Demo](img/preset_demo.gif)
 
