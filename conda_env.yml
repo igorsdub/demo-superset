@@ -1,0 +1,14 @@
+name: spotipy
+
+channels:
+  - defaults
+  - conda-forge
+  - cf-staging
+
+dependencies:
+  - python
+  - spotipy
+  - requests
+  - pandas
+  - numpy
+  - python-dotenv
