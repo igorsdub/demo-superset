@@ -10,6 +10,8 @@ Firstly, fetch the playlist using Spotify API with Python. Then, visualize my da
 
 You can interact with the final dashboard [here](https://7ca886a3.us2a.app.preset.io:443/r/1) (Note: Login into Preset is required.)
 
+Dashboard contents can be found in `dashboard/` directory.
+
 ## Getting Started
 
 ### Dependencies
