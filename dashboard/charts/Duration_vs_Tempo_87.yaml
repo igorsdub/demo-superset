@@ -1,0 +1,106 @@
+slice_name: Duration vs Tempo
+viz_type: bubble
+params:
+  adhoc_filters: []
+  bottom_margin: auto
+  color_scheme: bnbColors
+  datasource: 21__table
+  entity: track_name
+  extra_form_data: {}
+  granularity_sqla: duration_ms
+  left_margin: auto
+  limit: 500
+  max_bubble_size: '10'
+  series: track_name
+  show_legend: false
+  size:
+    aggregate: AVG
+    column:
+      certification_details: null
+      certified_by: null
+      column_name: loudness
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 740
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: REAL
+      type_generic: 0
+      verbose_name: null
+      warning_markdown: null
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    isNew: false
+    label: AVG(loudness)
+    optionName: metric_drnbsxt9nzu_67wttdn7ple
+    sqlExpression: null
+  slice_id: 87
+  time_range: No filter
+  viz_type: bubble
+  x:
+    aggregate: AVG
+    column:
+      certification_details: null
+      certified_by: null
+      column_name: tempo
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 746
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: REAL
+      type_generic: 0
+      verbose_name: null
+      warning_markdown: null
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    isNew: false
+    label: AVG(tempo)
+    optionName: metric_saynajr8re8_u5ukwkw9xhk
+    sqlExpression: null
+  x_axis_format: ~g
+  x_axis_label: Tempo (bpm)
+  x_axis_showminmax: true
+  x_log_scale: false
+  x_ticks_layout: auto
+  y:
+    aggregate: AVG
+    column:
+      certification_details: null
+      certified_by: null
+      column_name: duration_ms
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 747
+      is_certified: false
+      is_dttm: true
+      python_date_format: null
+      type: REAL
+      type_generic: 2
+      verbose_name: null
+      warning_markdown: null
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    isNew: false
+    label: AVG(duration_ms)
+    optionName: metric_y16mohblbt_dvddo3o2h8g
+    sqlExpression: null
+  y_axis_bounds:
+  - 100000
+  - 300000
+  y_axis_format: ~g
+  y_axis_label: Duration (ms)
+  y_axis_showminmax: true
+  y_log_scale: false
+cache_timeout: null
+uuid: 85ee4deb-c940-41a9-9ba4-9164aed5e871
+version: 1.0.0
+dataset_uuid: 7a86ce35-edd6-43e7-b863-283a1073a793

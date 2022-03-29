@@ -1,0 +1,219 @@
+table_name: Spotify Discover Weekly
+main_dttm_col: duration_ms
+description: null
+default_endpoint: null
+offset: 0
+cache_timeout: null
+schema: main
+sql: ''
+params: null
+template_params: null
+filter_select_enabled: true
+fetch_values_predicate: null
+extra: null
+uuid: 7a86ce35-edd6-43e7-b863-283a1073a793
+metrics:
+- metric_name: count
+  verbose_name: COUNT(*)
+  metric_type: null
+  expression: COUNT(*)
+  description: null
+  d3format: null
+  extra:
+    warning_markdown: ''
+  warning_text: null
+columns:
+- column_name: duration_ms
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: time_signature
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: danceability
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: valence
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: instrumentalness
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: speechiness
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: loudness
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: mode
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: energy
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: liveness
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: key
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: tempo
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: REAL
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: track_name
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: TEXT
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: track_id
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: TEXT
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: album
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: TEXT
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+- column_name: artist
+  verbose_name: null
+  is_dttm: false
+  is_active: null
+  type: TEXT
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra:
+    warning_markdown: null
+version: 1.0.0
+database_uuid: b801ff2f-7ebd-4e56-8718-481259cf9ab7

@@ -1,0 +1,510 @@
+dashboard_title: Spotify Discover Weekly
+description: null
+css: ''
+slug: null
+uuid: c746a190-6b7d-4bc4-85b6-00f69ccafc6a
+position:
+  CHART-39RjRwdCEQ:
+    children: []
+    id: CHART-39RjRwdCEQ
+    meta:
+      chartId: 84
+      height: 50
+      sliceName: Musical Key Pie Chart
+      uuid: 529cfbbc-9160-43e5-ba7e-89d14625a6e6
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ofiXFyVqjv
+    type: CHART
+  CHART-3XUXYd5Hb4:
+    children: []
+    id: CHART-3XUXYd5Hb4
+    meta:
+      chartId: 79
+      height: 50
+      sliceName: Energy per Artist
+      uuid: 90ada7b4-e8a5-4c96-a301-2151ca5e8e43
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-K8b7Fgfach
+    type: CHART
+  CHART-7d0EPquIHQ:
+    children: []
+    id: CHART-7d0EPquIHQ
+    meta:
+      chartId: 83
+      height: 50
+      sliceName: Jazz Standards Comparison
+      uuid: 8fad51f4-2d9b-4f9f-ad8b-7767d9369546
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    - ROW-7amt_LLm-W
+    type: CHART
+  CHART-Bsry8RFbTY:
+    children: []
+    id: CHART-Bsry8RFbTY
+    meta:
+      chartId: 85
+      height: 50
+      sliceName: Time Signature
+      uuid: 136fe950-2fa2-46f0-9ca2-bd8b6b61a2d3
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ofiXFyVqjv
+    type: CHART
+  CHART-J1Ev0Bje9S:
+    children: []
+    id: CHART-J1Ev0Bje9S
+    meta:
+      chartId: 87
+      height: 50
+      sliceName: Duration vs Tempo
+      uuid: 85ee4deb-c940-41a9-9ba4-9164aed5e871
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    - ROW-XlskvgxUdF
+    type: CHART
+  CHART-LnhF-XRaRG:
+    children: []
+    id: CHART-LnhF-XRaRG
+    meta:
+      chartId: 81
+      height: 50
+      sliceName: Number of tracks
+      uuid: 67678582-f26f-402c-bbbe-2ef470020f16
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-3cTAJNr_b_
+    - COLUMN-yZ-hhjOewO
+    type: CHART
+  CHART-_LeX9mztBI:
+    children: []
+    id: CHART-_LeX9mztBI
+    meta:
+      chartId: 82
+      height: 50
+      sliceName: Contents Table
+      uuid: 7f0857a4-c72e-4fb9-91be-c6495cd04d5b
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-K8b7Fgfach
+    - COLUMN-NuPFKMmzsI
+    type: CHART
+  COLUMN-NcZy3g3sFw:
+    children:
+    - ROW-XlskvgxUdF
+    - ROW-7amt_LLm-W
+    id: COLUMN-NcZy3g3sFw
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    type: COLUMN
+  COLUMN-NuPFKMmzsI:
+    children:
+    - CHART-_LeX9mztBI
+    id: COLUMN-NuPFKMmzsI
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-K8b7Fgfach
+    type: COLUMN
+  COLUMN-pmrO7T_O9B:
+    children:
+    - MARKDOWN-Du0vNdbPtp
+    id: COLUMN-pmrO7T_O9B
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-K8b7Fgfach
+    type: COLUMN
+  COLUMN-yZ-hhjOewO:
+    children:
+    - CHART-LnhF-XRaRG
+    id: COLUMN-yZ-hhjOewO
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-3cTAJNr_b_
+    type: COLUMN
+  COLUMN-yuJ7rzL-bI:
+    children:
+    - MARKDOWN-DQaU_DoDNQ
+    id: COLUMN-yuJ7rzL-bI
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-3cTAJNr_b_
+    type: COLUMN
+  DASHBOARD_VERSION_KEY: v2
+  DIVIDER-Q8iTl26j4n:
+    children: []
+    id: DIVIDER-Q8iTl26j4n
+    meta: {}
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: DIVIDER
+  DIVIDER-TNiAKoN11_:
+    children: []
+    id: DIVIDER-TNiAKoN11_
+    meta: {}
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: DIVIDER
+  DIVIDER-uZSkrh8rM3:
+    children: []
+    id: DIVIDER-uZSkrh8rM3
+    meta: {}
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: DIVIDER
+  GRID_ID:
+    children:
+    - ROW-3cTAJNr_b_
+    - ROW-dSOf0MKXyA
+    - ROW-K8b7Fgfach
+    - DIVIDER-Q8iTl26j4n
+    - ROW-ofiXFyVqjv
+    - DIVIDER-uZSkrh8rM3
+    - ROW-C2N2zA95d3
+    - DIVIDER-TNiAKoN11_
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: Spotify Discover Weekly
+    type: HEADER
+  MARKDOWN-5uPxkJQkFO:
+    children: []
+    id: MARKDOWN-5uPxkJQkFO
+    meta:
+      code: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3LrX92eaEOVh2JPtobtxgF?utm_source=generator"
+        width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay;
+        clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6hSJNWkyWPZBHBRrL5wFx1?utm_source=generator"
+        width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay;
+        clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Vo9c2eCZo4bEvKxjPB1DQ?utm_source=generator"
+        width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay;
+        clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>'
+      height: 37
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    - ROW-7amt_LLm-W
+    type: MARKDOWN
+  MARKDOWN-DQaU_DoDNQ:
+    children: []
+    id: MARKDOWN-DQaU_DoDNQ
+    meta:
+      code: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZEVXcNe0OGyW82cc?utm_source=generator"
+        width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay;
+        clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+      height: 50
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-3cTAJNr_b_
+    - COLUMN-yuJ7rzL-bI
+    type: MARKDOWN
+  MARKDOWN-Du0vNdbPtp:
+    children: []
+    id: MARKDOWN-Du0vNdbPtp
+    meta:
+      code: '## Data Type
+
+        Spotify API provides various info for each song
+
+        * Textual data: artist, album and track name (plus unique track ID number).
+        Straightforward and comonnly known data.
+
+        * Numeric data: duration, tempo, time siganture key, loudness, liveliness,
+        energy, etc. Technical data, especially emotional metrics like energy, liveliness
+        and danceability.
+
+        <br />
+
+
+        '
+      height: 40
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-K8b7Fgfach
+    - COLUMN-pmrO7T_O9B
+    type: MARKDOWN
+  MARKDOWN-IG_y9BEj25:
+    children: []
+    id: MARKDOWN-IG_y9BEj25
+    meta:
+      code: "# My Discover Weekly Playlist Dashboard\nEven if you don't know it, algorithms\
+        \ play a big part in our daily lives. Spotify routinely provides suggestioins\
+        \ to listeners and constanly refines its Machine Learning models. \n\nDespite\
+        \ being an avid Spotify user myself, I don't use the suggestions a lot, leaving\
+        \ myself a joy of finding new music bymyself.\nHere, I've took my recent _Discover\
+        \ Weekly_ playlist from Spotify and looked into what it has to offer. \n\n\
+        <br />\n\n\n**See GitHub repo**: [https://github.com/igordub/demo-superset][https://github.com/igordub/demo-superset]"
+      height: 50
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-3cTAJNr_b_
+    type: MARKDOWN
+  MARKDOWN-ZfwuPaA5aS:
+    children: []
+    id: MARKDOWN-ZfwuPaA5aS
+    meta:
+      code: 'As the last chart, I compare three jazz standards  in this playlist.
+
+
+        * All of them share very similar characteristics in their metric.
+
+
+        * "My Favourite Things" and "On the Sunny Side of the Street" are more alike
+        compared to "Fly Me to the Moon" version of song. The latter has a big orchestral
+        sound, while two others sound lot.'
+      height: 35
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    - ROW-7amt_LLm-W
+    type: MARKDOWN
+  MARKDOWN-lHTwbCQYnt:
+    children: []
+    id: MARKDOWN-lHTwbCQYnt
+    meta:
+      code: "## Faster track is more likely to be short\n* A visible correlation is\
+        \ observed on the track duration vs tempo plot - faster tempo, shorter song\
+        \ duration. \n* From perfomer's perpective it makes sene - high intensity\
+        \ can not be sutained for a long time. Also, listener will get tired from\
+        \ a track quicker/ly if it will be fast and long in duration.\n* Two outlires,\
+        \ seem to contradict this trend being both long and fast!"
+      height: 25
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    - ROW-XlskvgxUdF
+    type: MARKDOWN
+  MARKDOWN-omzokBgPLB:
+    children: []
+    id: MARKDOWN-omzokBgPLB
+    meta:
+      code: " ## _Your weekly mixtape of fresh music. Enjoy new music and deep cuts\
+        \ picked for you. Updates every Monday._\n \n ### \\- Spotify"
+      height: 15
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-dSOf0MKXyA
+    type: MARKDOWN
+  MARKDOWN-yzryTGoH-6:
+    children: []
+    id: MARKDOWN-yzryTGoH-6
+    meta:
+      code: '## Time is the Key
+
+        * Most of the popular songs have 4 beats per bar. Thus, not suprisingly, the
+        tacks are mostly in 4/4. However, as someone who likes jazz, 20% of the suggested
+        songs have 3 per bar, signifying triplets and non-straight beats.
+
+        * One third of the songs are in key of **C** (key = 0) (it''s the esaiset
+        key to write on piano) followed by **E** (key = 5). Interstingly, **Eb** (key
+        = 4) and **A** (key = 9) keys are abscent, but that might be due to small
+        sample size. '
+      height: 34
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ofiXFyVqjv
+    type: MARKDOWN
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW-3cTAJNr_b_:
+    children:
+    - MARKDOWN-IG_y9BEj25
+    - COLUMN-yuJ7rzL-bI
+    - COLUMN-yZ-hhjOewO
+    id: ROW-3cTAJNr_b_
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-7amt_LLm-W:
+    children:
+    - CHART-7d0EPquIHQ
+    - MARKDOWN-ZfwuPaA5aS
+    - MARKDOWN-5uPxkJQkFO
+    id: ROW-7amt_LLm-W
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    type: ROW
+  ROW-C2N2zA95d3:
+    children:
+    - COLUMN-NcZy3g3sFw
+    id: ROW-C2N2zA95d3
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-K8b7Fgfach:
+    children:
+    - COLUMN-NuPFKMmzsI
+    - COLUMN-pmrO7T_O9B
+    - CHART-3XUXYd5Hb4
+    id: ROW-K8b7Fgfach
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-XlskvgxUdF:
+    children:
+    - CHART-J1Ev0Bje9S
+    - MARKDOWN-lHTwbCQYnt
+    id: ROW-XlskvgxUdF
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C2N2zA95d3
+    - COLUMN-NcZy3g3sFw
+    type: ROW
+  ROW-dSOf0MKXyA:
+    children:
+    - MARKDOWN-omzokBgPLB
+    id: ROW-dSOf0MKXyA
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-ofiXFyVqjv:
+    children:
+    - MARKDOWN-yzryTGoH-6
+    - CHART-Bsry8RFbTY
+    - CHART-39RjRwdCEQ
+    id: ROW-ofiXFyVqjv
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  show_native_filters: true
+  chart_configuration:
+    '79':
+      id: 79
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 79
+    '82':
+      id: 82
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 82
+    '83':
+      id: 83
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 83
+    '84':
+      id: 84
+      crossFilters:
+        scope:
+          rootPath:
+          - ROOT_ID
+          excluded:
+          - 84
+  color_scheme: ''
+  refresh_frequency: 0
+  expanded_slices: {}
+  label_colors: {}
+  timed_refresh_immune_slices: []
+  default_filters: '{}'
+version: 1.0.0

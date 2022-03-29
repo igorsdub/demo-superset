@@ -1,0 +1,43 @@
+slice_name: Contents Table
+viz_type: table
+params:
+  adhoc_filters: []
+  all_columns:
+  - artist
+  color_pn: true
+  datasource: 21__table
+  extra_form_data: {}
+  granularity_sqla: duration_ms
+  groupby:
+  - artist
+  - album
+  - track_name
+  - track_id
+  - duration_ms
+  - tempo
+  - time_signature
+  - key
+  - loudness
+  - valence
+  - mode
+  - danceability
+  - energy
+  - speechiness
+  - instrumentalness
+  - liveness
+  order_by_cols: []
+  order_desc: true
+  percent_metrics: []
+  query_mode: aggregate
+  row_limit: 10000
+  server_page_length: 10
+  show_cell_bars: true
+  slice_id: 82
+  table_timestamp_format: smart_date
+  time_grain_sqla: P1D
+  time_range: No filter
+  viz_type: table
+cache_timeout: null
+uuid: 7f0857a4-c72e-4fb9-91be-c6495cd04d5b
+version: 1.0.0
+dataset_uuid: 7a86ce35-edd6-43e7-b863-283a1073a793
