@@ -1,4 +1,4 @@
-# Data fetching and visualization with BI tools demo
+# Data fetching and visualization with BI tools
 Demo project employing data fetching, visualization and analysis.
 
 ![Dashboard Demo](img/preset_demo.gif)
